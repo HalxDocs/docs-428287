@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dj72fy.shadowdiary.com/sitemap.xml
